@@ -9,6 +9,8 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - Loops (while, do-while, for)
 - Pointers
 - Arrays
+- Pattern Programming
+- Number System Conversions
 
 ## Assignment Solutions
 
@@ -19,6 +21,16 @@ This repository contains my C++ learning progress and practice files. Here you'l
 4. Find Largest and Smallest of 3 Numbers
 5. Print Multiplication Table
 6. Generate First n Fibonacci Numbers
-7. Print ABCD Pattern
+7. Reverse a Number
+8. Operators using Switch Case
+9. Print ABCD Pattern
+10. Print Star Pattern
+11. Decimal to Binary Conversion
 
-Each solution demonstrates understanding of basic C++ concepts and problem-solving skills.
+Each solution demonstrates understanding of basic C++ concepts including:
+- Loop control structures
+- Conditional statements
+- Pattern logic
+- Mathematical operations
+- Number system conversions
+- Switch case implementation

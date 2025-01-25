@@ -27,10 +27,18 @@ This repository contains my C++ learning progress and practice files. Here you'l
 10. Print Star Pattern
 11. Decimal to Binary Conversion
 
-Each solution demonstrates understanding of basic C++ concepts including:
+### Assignment 2: Operators and Functions in C++
+1. Arithmetic Operations on Float Numbers
+2. Logical and Relational Operators
+3. Increment and Decrement Operators
+
+## Concepts Demonstrated
 - Loop control structures
 - Conditional statements
 - Pattern logic
 - Mathematical operations
 - Number system conversions
 - Switch case implementation
+- Function implementation
+- Operator precedence and associativity
+- Type conversion and floating-point arithmetic

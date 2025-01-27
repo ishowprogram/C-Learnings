@@ -31,6 +31,10 @@ This repository contains my C++ learning progress and practice files. Here you'l
 1. Arithmetic Operations on Float Numbers
 2. Logical and Relational Operators
 3. Increment and Decrement Operators
+4. Rectangle Properties Calculator
+5. Array Operations
+6. Function Implementations
+7. Alternate Array Elements
 
 ## Concepts Demonstrated
 - Loop control structures
@@ -42,3 +46,5 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - Function implementation
 - Operator precedence and associativity
 - Type conversion and floating-point arithmetic
+- Array manipulation and traversal
+- Geometric calculations

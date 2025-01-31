@@ -29,12 +29,14 @@ This repository contains my C++ learning progress and practice files. Here you'l
 
 ### Assignment 2: Operators and Functions in C++
 1. Arithmetic Operations on Float Numbers
-2. Logical and Relational Operators
+2. Student Percentage Calculator
 3. Increment and Decrement Operators
 4. Rectangle Properties Calculator
 5. Power Function Implementation
-6. Circle Area and Circumference Calculator
+6. Bank Account Details Management
 7. Alternate Array Elements
+8. Modified Array Reference
+9. Book Inventory Management
 
 ## Concepts Demonstrated
 - Loop control structures
@@ -48,4 +50,6 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - Type conversion and floating-point arithmetic
 - Array manipulation and traversal
 - Geometric calculations
-- Mathematical functions (power, circle area)
+- Mathematical functions
+- Object-oriented concepts
+- File handling and data management

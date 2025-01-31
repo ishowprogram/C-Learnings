@@ -32,8 +32,8 @@ This repository contains my C++ learning progress and practice files. Here you'l
 2. Logical and Relational Operators
 3. Increment and Decrement Operators
 4. Rectangle Properties Calculator
-5. Array Operations
-6. Function Implementations
+5. Power Function Implementation
+6. Circle Area and Circumference Calculator
 7. Alternate Array Elements
 
 ## Concepts Demonstrated
@@ -48,3 +48,4 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - Type conversion and floating-point arithmetic
 - Array manipulation and traversal
 - Geometric calculations
+- Mathematical functions (power, circle area)

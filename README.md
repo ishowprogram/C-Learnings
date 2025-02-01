@@ -11,6 +11,9 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - Arrays
 - Pattern Programming
 - Number System Conversions
+- Classes and Objects
+- Friend Functions
+- Static Members
 
 ## Assignment Solutions
 
@@ -37,6 +40,13 @@ This repository contains my C++ learning progress and practice files. Here you'l
 7. Alternate Array Elements
 8. Modified Array Reference
 9. Book Inventory Management
+10. Circle Area and Circumference Calculator
+
+### Assignment 3: Classes and Objects
+1. Customer Information System
+2. Employee Records Management
+3. Add Floats using Friend Function
+4. Student Count using Static Members
 
 ## Concepts Demonstrated
 - Loop control structures
@@ -53,3 +63,5 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - Mathematical functions
 - Object-oriented concepts
 - File handling and data management
+- Friend functions and static members
+- Class design and encapsulation

@@ -1,3 +1,7 @@
+// Write a C++ program using class to accept and display ‘n’ Products information, also
+// display information of a product having maximum price. (Use array of objects and
+// dynamic memory allocation)
+
 #include <iostream>
 #include <string>
 using namespace std;

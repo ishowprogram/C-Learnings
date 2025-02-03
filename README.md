@@ -14,6 +14,8 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - Classes and Objects
 - Friend Functions
 - Static Members
+- Operator Overloading
+- Constructors and Destructors
 
 ## Assignment Solutions
 
@@ -47,6 +49,17 @@ This repository contains my C++ learning progress and practice files. Here you'l
 2. Employee Records Management
 3. Add Floats using Friend Function
 4. Student Count using Static Members
+5. Average Height Calculator using Static Members
+6. Max Min using Friend Function
+7. Product with Maximum Price
+8. Distance Calculator with Operator Overloading
+9. Maximum Array Element using Friend Function
+10. Matrix Multiplication using Friend Class
+
+### Assignment 4: Constructors and Destructors
+1. Matrix Multiplication using Friend Class
+2. Fraction Operations with Constructor
+3. Array Sorting with Constructor and Destructor
 
 ## Concepts Demonstrated
 - Loop control structures
@@ -65,3 +78,7 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - File handling and data management
 - Friend functions and static members
 - Class design and encapsulation
+- Operator overloading
+- Matrix operations
+- Constructor and Destructor implementation
+- Memory management

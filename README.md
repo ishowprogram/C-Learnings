@@ -16,6 +16,7 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - Static Members
 - Operator Overloading
 - Constructors and Destructors
+- Copy Constructors
 
 ## Assignment Solutions
 
@@ -60,6 +61,9 @@ This repository contains my C++ learning progress and practice files. Here you'l
 1. Matrix Multiplication using Friend Class
 2. Fraction Operations with Constructor
 3. Array Sorting with Constructor and Destructor
+4. Number Average Calculator with Constructor
+5. Date Formatting with Constructor
+6. Point Class with Copy Constructor
 
 ## Concepts Demonstrated
 - Loop control structures
@@ -82,3 +86,5 @@ This repository contains my C++ learning progress and practice files. Here you'l
 - Matrix operations
 - Constructor and Destructor implementation
 - Memory management
+- Copy constructor implementation
+- Date and time handling
